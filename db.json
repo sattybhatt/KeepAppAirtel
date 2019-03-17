@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "tasks": [
+        {
+          "id": 1548669.723835503,
+          "noteTitle": "take bath",
+          "noteDescription": "Yeah, I'm pathetic, i've to remind myself to take bath everyday"
+        },
+        {
+          "id": 2065717.6985248907,
+          "noteTitle": "YAAAAY!!!",
+          "noteDescription": "I've finally made this app multi user"
+        }
+      ],
+      "id": "neelanjan.sen@gmail.com"
+    },
+    {
+      "tasks": [
+        {
+          "id": 2065717.6985248907,
+          "noteTitle": "SATTY",
+          "noteDescription": "I've finally made this app multi user"
+        },
+        {
+          "id": 241709939.252508,
+          "noteDescription": "SATTYBRO",
+          "noteTitle": "SATTY"
+        }
+      ],
+      "id": "mailmesatyambhatt@gmail.com"
+    },
+    {
+      "tasks": [
+        {
+          "id": 339942809.9546545,
+          "noteDescription": "abhi notes",
+          "noteTitle": "abhi notes"
+        }
+      ],
+      "id": "abhi"
+    }
+  ]
+}

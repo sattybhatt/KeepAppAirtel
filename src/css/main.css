@@ -1,0 +1,93 @@
+body{
+  font-family: 'Google Sans',Roboto,Arial,sans-serif;
+}
+.AppBar{
+  padding: 10px;
+}
+.textField{
+  border: 2px solid !important;
+  border-radius: 5px !important;
+  margin-left: 50px !important;
+  width: 400px !important;
+  outline: black !important;
+  padding: 10px !important;
+  background: grey !important;
+  background: white !important;
+  padding: 11px 16px 11px 16px !important;
+  box-sizing: border-box !important;
+}
+.content{
+  margin-left: 20% !important;
+    position: relative !important;
+    
+}
+.texter{
+     width: 500px !important;
+     display: flex !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.headerbtn{
+  margin-left: 50% !important;
+  border: 2px solid white !important;
+  padding: 10px !important;
+}
+.carder{
+     width: 300px;
+     background: #fff554 !important;
+     box-shadow: 5px 10px #888888 !important;
+     height: 250px !important;
+     margin: 10px;
+     padding-right: 20px;
+     padding-top: 20px;
+     margin-right: 20px !important;
+    display: inline-block;
+}
+.editor{
+  margin-top: 30px;
+}
+.classop1{
+  width: 500px !important;
+     display: flex !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+  opacity:0;
+}
+.classop2{
+  width: 500px !important;
+     display: flex !important;
+    margin-bottom: 0px !important;
+  opacity: 1;
+}
+.op{
+display: none;
+
+}
+.nop{
+display: block;
+}
+.opl{
+
+
+}
+.nopl{
+  display: block;
+  margin-left: 30%;
+margin-top: 10%;
+position: absolute;
+
+}
+.btnlogin{
+  font-size: 15px;
+  font-weight: bold;
+  padding: 20px;
+  margin: 20px 20px 20px 0px;
+  background:#3f51b5;
+  color: white;
+  font-size: 13px;
+  z-index: 2;
+  border-radius: 5px;
+}
+.sbtbtn{
+  margin: 10px;
+}
